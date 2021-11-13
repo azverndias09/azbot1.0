@@ -19,7 +19,6 @@ module.exports = async function(msg,args){
    
 //embeder(msg);
 
-if(args.length>0)
 { 
   keyword=args.join(" ")
   console.log(keyword);
