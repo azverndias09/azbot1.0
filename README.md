@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Azvern Dias</h1>
 <h3 align="center">A passionate game developer/CSE student from India.</h3>
 
-- 🔭 Invite the bot to your discord server [Trippy](https://discord.com/oauth2/authorize?client_id=862580847641886790&permissions=8&scope=bot)
+- 🔭 Invite my bot to your discord server [Trippy](https://discord.com/oauth2/authorize?client_id=862580847641886790&permissions=8&scope=bot)
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/AzzTech](https://linktr.ee/AzzTech)
+- 👨‍💻 My Portfolio [https://linktr.ee/AzzTech](https://linktr.ee/AzzTech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
