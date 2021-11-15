@@ -2,13 +2,13 @@
 const fetch = require("node-fetch");
 const Discord = require("discord.js")
 let imgurl;
-let  wallbang;
+
 
 let firerate;
 
 let weaponType;
 let cost;
-let category;
+
 let name
 module.exports = async function(msg,args){
 
