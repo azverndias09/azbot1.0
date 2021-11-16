@@ -34,6 +34,7 @@ Use Command: !list to list all commands
 ## Show your support
 
 Give a ⭐️ if you use Trippy in your server!
+
 Share it with your friends and DM me for custom commands for free!
 
 ***
