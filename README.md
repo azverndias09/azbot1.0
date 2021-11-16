@@ -29,7 +29,7 @@ Use Command: !list to list all commands
 
 * Website: https://linktr.ee/AzzTech
 * Github: [@azverndias09](https://github.com/azverndias09)
-* LinkedIn: [@AzvernDias](www.linkedin.com/in/azverndias0912)
+* LinkedIn: [@AzvernDias](https://www.linkedin.com/in/azverndias0912/)
 
 ## Show your support
 
